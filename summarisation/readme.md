@@ -1,4 +1,4 @@
-## This folder contains the necessary files and resources for the `chatCompletionsAPI` project.
+## This folder contains the necessary files and resources for the `Summarisation` project.
 
 ## Description
 The codebase is provided as a "POC" to make your GPT engine behave as a summarisation assistant.

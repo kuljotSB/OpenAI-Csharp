@@ -1,4 +1,4 @@
-## This folder contains the necessary files and resources for the `chatCompletionsAPI` project.
+## This folder contains the necessary files and resources for the `Content Safety` project.
 
 ## Description
 this folder contains main code in `program.cs` which is made to provide a very basic architecture of how `Azure Content Safety`
