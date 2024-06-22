@@ -54,6 +54,10 @@
             "Microsoft.Extensions.Configuration.Json": {
               "target": "Package",
               "version": "[8.0.0, )"
+            },
+            "Newtonsoft.json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
             }
           },
           "imports": [

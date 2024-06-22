@@ -28,3 +28,5 @@ C:\Users\HP VICTUS\Downloads\openai_c#\Functions\obj\Debug\net8.0\refint\Functio
 C:\Users\HP VICTUS\Downloads\openai_c#\Functions\obj\Debug\net8.0\Functions.pdb
 C:\Users\HP VICTUS\Downloads\openai_c#\Functions\obj\Debug\net8.0\Functions.genruntimeconfig.cache
 C:\Users\HP VICTUS\Downloads\openai_c#\Functions\obj\Debug\net8.0\ref\Functions.dll
+C:\Users\HP VICTUS\Downloads\openai_c#\Functions\obj\Debug\net8.0\Functions.sourcelink.json
+C:\Users\HP VICTUS\Downloads\openai_c#\Functions\bin\Debug\net8.0\Newtonsoft.Json.dll
