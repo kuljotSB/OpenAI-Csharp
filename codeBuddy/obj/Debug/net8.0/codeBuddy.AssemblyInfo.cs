@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("codeBuddy")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+033b37d7363e448f90a67b2316a128929c84db2e")]
 [assembly: System.Reflection.AssemblyProductAttribute("codeBuddy")]
 [assembly: System.Reflection.AssemblyTitleAttribute("codeBuddy")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
